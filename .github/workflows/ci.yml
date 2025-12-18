@@ -14,4 +14,4 @@ jobs:
       - run: python -m pip install --upgrade pip
       - run: pip install -r requirements.txt
       - run: ruff check .
-      - run: PYTHONPATH=. pytest -q
+      - run: PYTHONPATH=. PYTHONPATH=. pytest -q
