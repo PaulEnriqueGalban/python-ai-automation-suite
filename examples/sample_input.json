@@ -1,0 +1,18 @@
+{
+  "job_id": "demo-001",
+  "items": [
+    {
+      "name": "task_a",
+      "duration_sec": 12
+    },
+    {
+      "name": "task_b",
+      "duration_sec": 7
+    },
+    {
+      "name": "task_c",
+      "duration_sec": 19
+    }
+  ],
+  "notes": "Sample input for the automation workflow."
+}

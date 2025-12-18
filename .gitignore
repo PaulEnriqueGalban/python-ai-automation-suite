@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+.env.*
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Outputs
+output/
+reports/latest.json
